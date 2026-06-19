@@ -73,5 +73,5 @@ Through this project, you can learn:
 - Collision detection techniques.
 
 ## 👨‍💻 Author
-**Prashant Kumar**  
+**Prashant Kumar , Prateek Khatana**  
 B.Tech Computer Science Engineering
